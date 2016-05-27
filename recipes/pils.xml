@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="20.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="78" bollitura="60" nome="Straight to Plsen" note="">
+  <jmash.BrewStyle nome="Bohemian Pilsener" categoria="PILSNER" numero="2" sottoCategoria="B" ogMin="1.044" ogMax="1.056" fgMin="1.013" fgMax="1.017" ibuMin="35.0" ibuMax="45.0" colorMin="3.5" colorMax="6.0" abvMin="4.2" abvMax="5.4" />
+  <jmash.Hop Grammi="40.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="4.0" Nome="Saaz" Forma="Fiore" Origine="Czech Republic" Uso="Kettle" HSI="42.0" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="30" AlfaAcidi="4.0" Nome="Saaz" Forma="Fiore" Origine="Czech Republic" Uso="Kettle" HSI="42.0" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="15" AlfaAcidi="4.0" Nome="Saaz" Forma="Fiore" Origine="Czech Republic" Uso="Kettle" HSI="42.0" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="4.0" Nome="Saaz" Forma="Fiore" Origine="Czech Republic" Uso="Kettle" HSI="42.0" />
+  <jmash.Malt Grammi="4000.0" UnitaMisura="grammi" Nome="Pilsner (2 Row) Ger" Forma="Grani" Ebc="3.94" PotentialSG="1.037" srm="2.00152" />
+  <jmash.WaterProfile nome="Guizza" type="0" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" />
+  <jmash.WaterProfile nome="Pilsen2" type="1" calcio="50.0" magnesio="3.0" solfato="4.0" cloruro="54.0" sodio="3.0" carbonato="3.0" />
+  <jmash.WaterProfile type="2" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" gypsum="20.0" sale="0.0" epsom="0.0" calciumChloride="479.0" chalk="0.0" soda="0.0" />
+</recipe>
+

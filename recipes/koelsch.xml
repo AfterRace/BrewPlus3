@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="20.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="78" bollitura="75" nome="Kolsch" note="">
+  <jmash.BrewStyle nome="Kolsch" categoria="LIGHT HYBRID BEER" numero="6" sottoCategoria="C" ogMin="1.044" ogMax="1.05" fgMin="1.007" fgMax="1.011" ibuMin="20.0" ibuMax="30.0" colorMin="3.5" colorMax="5.0" abvMin="4.4" abvMax="5.2" />
+  <jmash.Hop Grammi="42.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="4.0" Nome="Hallertauer Hersbrucker" Forma="Fiore" Origine="German" Uso="Kettle" HSI="25.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="20" AlfaAcidi="4.0" Nome="Hallertauer Hersbrucker" Forma="Fiore" Origine="German" Uso="Kettle" HSI="25.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="5" AlfaAcidi="4.0" Nome="Saaz" Forma="Fiore" Origine="Czech Republic" Uso="Kettle" HSI="42.0" />
+  <jmash.Malt Grammi="3600.0" UnitaMisura="grammi" Nome="Pilsner (2 Row) Ger" Forma="Grani" Ebc="3.94" PotentialSG="1.037" />
+  <jmash.Malt Grammi="400.0" UnitaMisura="grammi" Nome="Wheat Malt, Ger" Forma="Grani" Ebc="3.94" PotentialSG="1.039" />
+</recipe>
+

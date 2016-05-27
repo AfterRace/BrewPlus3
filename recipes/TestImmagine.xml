@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="23.0" volume_boll="28.0" volume_dil="12.0" unita_misura_mostrata="litri" efficienza="80" bollitura="60" bollitura_conc="false" nome="PizBul Test" note="">
+  <jmash.BrewStyle nome="American Pale Ale" categoria="American Ale" numero="10A" ogMin="1.045" ogMax="1.06" fgMin="1.01" fgMax="1.015" ibuMin="30.0" ibuMax="45.0" colorMin="5.0" colorMax="14.0" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="5.5" Nome="Cascade" Forma="Fiore" Origine="US" Uso="Kettle" HSI="50.0" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="30" AlfaAcidi="5.5" Nome="Cascade" Forma="Fiore" Origine="US" Uso="Kettle" HSI="50.0" />
+  <jmash.Hop Grammi="50.0" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="5.5" Nome="Cascade" Forma="Fiore" Origine="US" Uso="Kettle" HSI="50.0" />
+  <jmash.Hop Grammi="50.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="5.5" Nome="Cascade" Forma="Fiore" Origine="US" Uso="Kettle" HSI="50.0" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="5.5" Nome="Cascade" Forma="Fiore" Origine="US" Uso="Dry" HSI="50.0" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="5.0" Nome="Goldings, East Kent" Forma="Fiore" Origine="UK" Uso="Dry" HSI="35.0" />
+  <jmash.Hop Grammi="5.0" UnitaMisura="grammi" BoilTime="12" AlfaAcidi="0.0" Nome="Irish Moss" Forma="Altro" Origine="US" Uso="Kettle" HSI="40.0" />
+  <jmash.Malt Grammi="3250.0" UnitaMisura="grammi" Nome="Pale Malt, Maris Otter" Forma="Grani" Ebc="5.941512976807227" PotentialSG="1.038" srm="3.018288592218071" />
+  <jmash.Malt Grammi="999.9999977125698" UnitaMisura="grammi" Nome="Vienna Malt" Forma="Grani" Ebc="6.931765139608431" PotentialSG="1.036" srm="3.521336690921083" />
+  <jmash.Malt Grammi="199.99999954251396" UnitaMisura="grammi" Nome="Wheat, Flaked" Forma="Grani" Ebc="3.168806920963855" PotentialSG="1.035" srm="1.6097539158496383" />
+  <jmash.Malt Grammi="299.99999931377096" UnitaMisura="grammi" Nome="Crystal 75L" Forma="grani" Ebc="148.53782442018064" PotentialSG="1.034" srm="75.45721480545177" />
+  <jmash.Yeast nome="SafAle American Ale" codice="S-05" produttore="DCL yeast" descrizione="English Ales, Cask Conditioned Ales" note="2 pacchetti" />
+  <jmash.MashStep type="Infusione" start="0" startTemp="17" endTemp="66" length="60" nome="" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.WaterProfile nome="Guizza" type="0" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" />
+  <jmash.WaterProfile type="1" calcio="100.0" magnesio="0.0" solfato="200.0" cloruro="30.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="2" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" gypsum="1324.0" sale="0.0" epsom="0.0" calciumChloride="196.0" chalk="0.0" soda="0.0" />
+  <water spnBatchSize="23.0" spnBoiltime="60.0" spnEvaporation="7.0" spnKg="4.747" spnNeiGrani="4.79447" spnLitriKg="3.0" spnLosses="2.0" spnTrub="0.7000000000000001" spnSparge="24.463996315789473" spnMash="14.241" spnShrink="5.0" spnPreBoil="0.0" spnPostBoil="0.0" spnAssorbimento="1.01" />
+</recipe>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="20.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="75" bollitura="60" nome="Straight to Vienna" note="">
+  <jmash.BrewStyle nome="Vienna Lager" categoria="European Amber Lager" numero="3A" ogMin="1.046" ogMax="1.052" fgMin="1.01" fgMax="1.014" ibuMin="18.0" ibuMax="30.0" colorMin="10.0" colorMax="16.0" />
+  <jmash.Hop Grammi="40.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="4.0" Nome="Hallertauer Hersbrucker" Forma="Plug" Origine="German" Uso="Kettle" HSI="25.0" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="5" AlfaAcidi="4.0" Nome="Hallertauer Hersbrucker" Forma="Plug" Origine="German" Uso="Kettle" HSI="25.0" />
+  <jmash.Malt Grammi="4000.0" UnitaMisura="grammi" Nome="Vienna Malt" Forma="Grani" Ebc="7.0" PotentialSG="1.036" srm="3.556" />
+  <jmash.MashStep type="Infusione" start="0" startTemp="12" endTemp="55" length="10" nome="" ramp="2" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="12" startTemp="55" endTemp="66" length="60" nome="" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="77" startTemp="66" endTemp="78" length="5" nome="" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.WaterProfile nome="Guizza" type="0" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" />
+  <jmash.WaterProfile nome="Vienna" type="1" calcio="200.0" magnesio="60.0" solfato="125.0" cloruro="12.0" sodio="8.0" carbonato="118.0" />
+  <jmash.WaterProfile type="2" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" gypsum="951.0" sale="0.0" epsom="0.0" calciumChloride="1240.0" chalk="0.0" soda="0.0" />
+</recipe>
+

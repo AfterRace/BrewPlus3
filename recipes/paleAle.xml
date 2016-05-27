@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="23.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="75" bollitura="90" nome="Big Ben Pale Ale" note="">
+  <jmash.BrewStyle nome="Special/Best/Premium Bitter" categoria="ENGLISH PALE ALE" numero="8" sottoCategoria="B" ogMin="1.04" ogMax="1.048" fgMin="1.008" fgMax="1.012" ibuMin="25.0" ibuMax="40.0" colorMin="5.0" colorMax="16.0" abvMin="3.8" abvMax="4.6" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="20" AlfaAcidi="4.2" Nome="Fuggle" Forma="Fiore" Origine="" Uso="Kettle" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="5.4" Nome="East Kent Goldings" Forma="Fiore" Origine="" Uso="Dry" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="90" AlfaAcidi="5.0" Nome="Goldings, East Kent" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="35.0" />
+  <jmash.Malt Grammi="3500.0" UnitaMisura="grammi" Nome="Pale Malt, Maris Otter" Forma="Grani" Ebc="5.91" PotentialSG="1.038" />
+  <jmash.Malt Grammi="250.0" UnitaMisura="grammi" Nome="Caramel/Crystal Malt - 80L" Forma="Grani" Ebc="157.6" PotentialSG="1.034" />
+  <jmash.Yeast nome="Ale yeast" codice="56" forma="smack pack" note="subito" />
+  <jmash.Yeast nome="American Ale yeast" codice="547" forma="package" note="dopo 2 settimane" />
+  <jmash.MashStep type="" start="0" startTemp="62" endTemp="62" length="15" nome="Dough in" ramp="0" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="0" startTemp="62" endTemp="68" length="6" nome="Ramp 1" ramp="0" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="0" startTemp="68" endTemp="68" length="60" nome="Beta rest" ramp="0" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="0" startTemp="68" endTemp="78" length="10" nome="ramp" ramp="0" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="0" startTemp="78" endTemp="78" length="5" nome="mash out" ramp="0" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+</recipe>
+

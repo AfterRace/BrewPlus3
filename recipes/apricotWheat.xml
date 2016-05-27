@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="18.93" volume_boll="75.71" unita_misura_mostrata="litri" efficienza="75" bollitura="60" nome="Apricot Summer Wheat" note="">
+  <jmash.Hop Grammi="18.71" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="4.5" Nome="Hallertau Hersbrucker" Forma="Fiore" Origine="" Uso="Kettle" />
+  <jmash.Hop Grammi="11.34" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="4.5" Nome="Hallertau Hersbrucker" Forma="Fiore" Origine="" Uso="Kettle" />
+  <jmash.Hop Grammi="3.97" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="5.6" Nome="Cacade" Forma="Fiore" Origine="" Uso="Kettle" />
+  <jmash.Malt Grammi="2270.0" UnitaMisura="grammi" Nome="Pale Malt(2-row)" Forma="Grani" Ebc="7.0" PotentialSG="1.038" srm="3.556" />
+  <jmash.Malt Grammi="1810.0" UnitaMisura="grammi" Nome="Wheat Malt" Forma="Grani" Ebc="4.0" PotentialSG="1.038" srm="2.032" />
+  <jmash.WaterProfile type="0" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="1" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+</recipe>
+

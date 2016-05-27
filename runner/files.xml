@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<files proxyHost="10.77.99.99" proxyPort="8080">
+
+    <file from="http://www.hbd.org/hbd/CurrentHBD.html" to="d.html"/>
+    <file from="http://www.zeusnews.com/" dir="lib" to="down.html"/>
+    
+    
+</files>

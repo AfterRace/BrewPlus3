@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="23.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="75" bollitura="60" nome="" note="">
+  <jmash.BrewStyle nome="Bohemian Pilsener" categoria="Pilsner" numero="2B" ogMin="1.044" ogMax="1.056" fgMin="1.013" fgMax="1.017" ibuMin="35.0" ibuMax="45.0" colorMin="3.5" colorMax="6.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="4.0" Nome="Saaz" Forma="Fiore" Origine="Czech Republic" Uso="Kettle" HSI="42.0" />
+  <jmash.Malt Grammi="5000.0" UnitaMisura="grammi" Nome="Pilsner" Forma="Grani" Ebc="1.972995537872" PotentialSG="1.037" srm="1.002281733238976" />
+  <jmash.WaterProfile type="0" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="1" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="2" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" gypsum="0.0" sale="0.0" epsom="0.0" calciumChloride="0.0" chalk="0.0" soda="0.0" />
+</recipe>
+

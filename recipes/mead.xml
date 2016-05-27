@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="23.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="75" bollitura="75" nome="" note="">
+  <jmash.Hop Grammi="32.0" UnitaMisura="grammi" BoilTime="90" AlfaAcidi="8.0" Nome="northern brewer" Forma="whole" Origine="" Uso="Kettle" />
+  <jmash.Hop Grammi="16.0" UnitaMisura="grammi" BoilTime="20" AlfaAcidi="8.0" Nome="northern brewer" Forma="whole" Origine="" Uso="Kettle" />
+  <jmash.Hop Grammi="16.0" UnitaMisura="grammi" BoilTime="1" AlfaAcidi="8.0" Nome="northern brewer" Forma="whole" Origine="" Uso="Kettle" />
+  <jmash.Malt Grammi="3400.0" UnitaMisura="grammi" Nome="english 2-row pale" Forma="Grani" Ebc="10.0" PotentialSG="1.034" srm="5.08" />
+  <jmash.Malt Grammi="1570.0" UnitaMisura="grammi" Nome="german light munich" Forma="Grani" Ebc="10.0" PotentialSG="1.034" srm="5.08" />
+  <jmash.Malt Grammi="260.0" UnitaMisura="grammi" Nome="american victory" Forma="Grani" Ebc="10.0" PotentialSG="1.034" srm="5.08" />
+  <jmash.Malt Grammi="260.0" UnitaMisura="grammi" Nome="american caramel 90°l" Forma="Grani" Ebc="10.0" PotentialSG="1.034" srm="5.08" />
+  <jmash.Malt Grammi="260.0" UnitaMisura="grammi" Nome="weyermann carared®" Forma="Grani" Ebc="10.0" PotentialSG="1.034" srm="5.08" />
+  <jmash.Yeast nome="wyeast 2112 california lager" />
+  <jmash.WaterProfile type="0" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="1" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+</recipe>
+

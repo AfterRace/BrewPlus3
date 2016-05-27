@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mash>
+  <jmash.MashStep type="Infusione" startTemp="50" endTemp="50" length="5" nome="Step non definito" />
+  <jmash.MashStep type="Decozione" startTemp="50" endTemp="72" length="5" nome="Step non definito" />
+  <jmash.MashStep type="Decozione" startTemp="72" endTemp="72" length="10" nome="Step non definito" />
+  <jmash.MashStep type="Decozione" startTemp="72" endTemp="100" length="5" nome="Step non definito" />
+  <jmash.MashStep type="Decozione" startTemp="100" endTemp="100" length="10" nome="Step non definito" />
+  <jmash.MashStep type="Decozione" startTemp="100" endTemp="68" length="2" nome="Step non definito" />
+  <jmash.MashStep type="Infusione" startTemp="50" endTemp="55" length="30" nome="Step non definito" />
+  <jmash.MashStep type="Infusione" startTemp="55" endTemp="68" length="2" nome="Step non definito" />
+  <jmash.MashStep type="Infusione" startTemp="68" endTemp="68" length="15" nome="Step non definito" />
+  <jmash.MashStep type="Infusione" startTemp="68" endTemp="78" length="10" nome="Step non definito" />
+  <jmash.MashStep type="Infusione" startTemp="78" endTemp="78" length="15" nome="Step non definito" />
+</mash>
+

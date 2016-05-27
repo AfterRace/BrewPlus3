@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="23.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="78" bollitura="90" nome="Wit" note="">
+  <jmash.BrewStyle nome="Witbier" categoria="BELGIAN AND FRENCH ALE" numero="16" sottoCategoria="A" ogMin="1.044" ogMax="1.052" fgMin="1.008" fgMax="1.012" ibuMin="10.0" ibuMax="20.0" colorMin="2.0" colorMax="4.0" abvMin="4.5" abvMax="5.5" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="4.0" Nome="Hallertauer Hersbrucker" Forma="Fiore" Origine="German" Uso="Kettle" HSI="25.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="4.0" Nome="Saaz" Forma="Fiore" Origine="Czech Republic" Uso="Kettle" HSI="42.0" />
+  <jmash.Hop Grammi="5.0" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="0.0" Nome="Camomilla" Forma="Pezzi" Origine="U.S." Uso="Kettle" HSI="45.0" />
+  <jmash.Hop Grammi="10.0" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="0.0" Nome="Coriandolo" Forma="Semi" Origine="U.S." Uso="Kettle" HSI="45.0" />
+  <jmash.Hop Grammi="5.0" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="0.0" Nome="Scorza di limone" Forma="Pezzi" Origine="U.S." Uso="Kettle" HSI="45.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="5.5" Nome="Cascade" Forma="Fiore" Origine="US" Uso="Kettle" HSI="50.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="8.0" Nome="Bullion" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="50.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="10.0" Nome="Banner" Forma="Fiore" Origine="U.S. " Uso="Kettle" HSI="35.0" />
+  <jmash.Malt Grammi="1530.0" UnitaMisura="grammi" Nome="Wheat, raw" Forma="Grani" Ebc="2.0" PotentialSG="1.035" srm="1.016" />
+  <jmash.Malt Grammi="2700.0" UnitaMisura="grammi" Nome="Pilsner (2 Row) Ger" Forma="Grani" Ebc="3.2" PotentialSG="1.037" srm="1.6256000000000002" />
+  <jmash.Malt Grammi="470.0" UnitaMisura="grammi" Nome="Oats, Flaked" Forma="Grani" Ebc="1.97" PotentialSG="1.037" srm="1.00076" />
+  <jmash.WaterProfile type="0" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="1" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+</recipe>
+

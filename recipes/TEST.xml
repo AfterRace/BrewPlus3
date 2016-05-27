@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="8.0" volume_boll="10.0" volume_dil="12.0" unita_misura_mostrata="litri" efficienza="100" bollitura="60" bollitura_conc="true" nome="Test" note="">
+  <jmash.Hop Grammi="12.0" UnitaMisura="grammi" BoilTime="50" AlfaAcidi="10.0" Nome="Banner" Forma="Fiore" Origine="U.S. " Uso="DHEA" HSI="35.0" />
+  <jmash.Hop Grammi="14.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="8.5" Nome="Amarillo Gold" Forma="Fiore" Origine="U.S." Uso="Dry" HSI="25.0" />
+  <jmash.Hop Grammi="7.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="14.75" Nome="Admiral" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="15.0" />
+  <jmash.Malt Grammi="1800.0" UnitaMisura="grammi" Nome="Alexander LME - Amber" Forma="Estratto liquido" Ebc="27.600960799999996" PotentialSG="1.037" srm="14.021288086399998" />
+  <jmash.WaterProfile type="0" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="1" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="2" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" gypsum="0.0" sale="0.0" epsom="0.0" calciumChloride="3836.372858457194" chalk="0.0" soda="0.0" />
+  <water spnBatchSize="8.0" spnBoiltime="60.0" spnEvaporation="7.0" spnKg="0.0" spnNeiGrani="0.0" spnLitriKg="3.0" spnLosses="2.0" spnTrub="0.7000000000000001" spnSparge="18.121052631578948" spnMash="0.0" spnShrink="5.0" spnPreBoil="0.0" spnPostBoil="0.0" spnAssorbimento="1.01" />
+</recipe>
+

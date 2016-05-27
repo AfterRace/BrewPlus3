@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="23.0" volume_boll="29.0" unita_misura_mostrata="litri" efficienza="78" bollitura="60" nome="Blanche de Chars" note="La mia blanche suona il rock">
+  <jmash.Hop Grammi="28.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="4.0" Nome="Hallertau" Forma="Fiore" Origine="" Uso="Kettle" />
+  <jmash.Hop Grammi="5.0" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="0.0" Nome="coriandolo macinato" Forma="Semi" Origine="" Uso="Kettle" />
+  <jmash.Hop Grammi="10.0" UnitaMisura="grammi" BoilTime="10" AlfaAcidi="0.0" Nome="buccia arancia amara" Forma="Pezzi" Origine="" Uso="Kettle" />
+  <jmash.Malt Grammi="2200.0" UnitaMisura="grammi" Nome="Frumento non maltato" Forma="Grani" Ebc="4.0" PotentialSG="1.034" />
+  <jmash.Malt Grammi="2400.0" UnitaMisura="grammi" Nome="Pilsner" Forma="Grani" Ebc="2.0" PotentialSG="1.034" />
+  <jmash.Malt Grammi="250.0" UnitaMisura="grammi" Nome="Oats, Flaked" Forma="Grani" Ebc="1.97" PotentialSG="1.037" />
+  <jmash.Yeast nome="Ringwood Ale yeast" codice="1187" produttore="Wyeast" descrizione="Thorough diacetyl rest recommended after ferment." note="" />
+  <jmash.MashStep type="" start="0" startTemp="42" endTemp="42" length="10" nome="Glucan rest" ramp="0" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="10" startTemp="42" endTemp="54" length="12" nome="rampa" ramp="12" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="34" startTemp="54" endTemp="66" length="90" nome="Sacc. rest" ramp="12" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="136" startTemp="66" endTemp="78" length="12" nome="rampa" ramp="12" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="" start="160" startTemp="78" endTemp="78" length="10" nome="Mash out" ramp="0" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.WaterProfile type="0" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+  <jmash.WaterProfile type="1" calcio="0.0" magnesio="0.0" solfato="0.0" cloruro="0.0" sodio="0.0" carbonato="0.0" />
+</recipe>
+

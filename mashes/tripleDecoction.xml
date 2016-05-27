@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mash>
+  <jmash.MashStep type="Infusione" start="0" startTemp="20" endTemp="30" length="43" nome="Generato da decozione" ramp="2" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="45" startTemp="30" endTemp="55" length="48" nome="Generato da decozione" ramp="2" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="95" startTemp="55" endTemp="65" length="43" nome="Generato da decozione" ramp="2" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="140" startTemp="65" endTemp="78" length="10" nome="Generato da decozione" ramp="2" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Decozione" start="5" startTemp="30" endTemp="55" length="15" nome="Step non definito" ramp="5" decoctionRamp1="5" decoctionRamp2="5" decoctionRestL1="15" decoctionRestL2="15" decoctionRestT1="72" decoctionRestT2="100" decoctionRampDown="2" />
+  <jmash.MashStep type="Decozione" start="50" startTemp="55" endTemp="65" length="15" nome="Step non definito" ramp="5" decoctionRamp1="5" decoctionRamp2="5" decoctionRestL1="15" decoctionRestL2="20" decoctionRestT1="72" decoctionRestT2="100" decoctionRampDown="2" />
+  <jmash.MashStep type="Decozione" start="100" startTemp="65" endTemp="78" length="15" nome="" ramp="5" decoctionRamp1="5" decoctionRamp2="5" decoctionRestL1="15" decoctionRestL2="15" decoctionRestT1="72" decoctionRestT2="100" decoctionRampDown="2" />
+</mash>
+

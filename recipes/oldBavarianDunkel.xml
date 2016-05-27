@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="20.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="75" bollitura="60" nome="Old Bavarian Dunkle Weizen" note="">
+  <jmash.BrewStyle nome="Dunkelweizen" categoria="GERMAN WHEAT AND RYE BEER" numero="15" sottoCategoria="B" ogMin="1.044" ogMax="1.056" fgMin="1.01" fgMax="1.014" ibuMin="10.0" ibuMax="18.0" colorMin="14.0" colorMax="23.0" abvMin="4.3" abvMax="5.6" />
+  <jmash.Hop Grammi="30.0" UnitaMisura="grammi" BoilTime="40" AlfaAcidi="4.0" Nome="Hallertauer Hersbrucker" Forma="Fiore" Origine="German" Uso="Kettle" HSI="25.0" />
+  <jmash.Malt Grammi="2000.0" UnitaMisura="grammi" Nome="Wheat Malt, Ger" Forma="Grani" Ebc="4.0" PotentialSG="1.039" />
+  <jmash.Malt Grammi="1000.0" UnitaMisura="grammi" Nome="Vienna Malt" Forma="Grani" Ebc="6.895" PotentialSG="1.036" />
+  <jmash.Malt Grammi="1000.0" UnitaMisura="grammi" Nome="Munich Malt" Forma="Grani" Ebc="17.73" PotentialSG="1.037" />
+  <jmash.Malt Grammi="40.0" UnitaMisura="grammi" Nome="Chocolate Malt" Forma="Grani" Ebc="886.5" PotentialSG="1.034" />
+  <jmash.MashStep type="Infusione" start="0" startTemp="20" endTemp="64" length="75" nome="Single infusion" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="80" startTemp="64" endTemp="78" length="10" nome="Mash out" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+</recipe>
+

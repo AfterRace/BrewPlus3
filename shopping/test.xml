@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmash.AcquistoIngredienti data="03/12/2012" des="test">
+  <jmash.Malt Grammi="0.0" UnitaMisura="grammi" Nome="Acid (malto acido)" Forma="Grani" Ebc="29.55" PotentialSG="1.03" srm="15.0114" />
+</jmash.AcquistoIngredienti>
+

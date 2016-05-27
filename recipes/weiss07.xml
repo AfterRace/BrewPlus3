@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="23" volume_boll="28" efficienza="78" bollitura="90" nome="PappaWeiss 07" note="">
+  <style nome="Weizen/Weiss" categoria="GERMAN WHEAT AND RYE BEER" sottocategoria="A" lettera="" numero="15" ogMin="1.044" ogMax="1.052" fgMin="1.01" fgMax="1.014" ibuMin="8.0" ibuMax="15.0" tipo="null" />
+  <jmash.Hop Grammi="20.0" BoilTime="60" AlfaAcidi="4.0" Nome="Hallertauer Hersbrucker" Forma="Fiore" Origine="German" Uso="Kettle" HSI="25.0" />
+  <jmash.Malt Grammi="1200.0" Nome="Pilsner (2 Row) Ger" Forma="Grani" Ebc="3.94" PotentialSG="1.037" />
+  <jmash.Malt Grammi="1100.0" Nome="Vienna Malt" Forma="Grani" Ebc="6.895" PotentialSG="1.036" />
+  <jmash.Malt Grammi="2300.0" Nome="Wheat Malt, Ger" Forma="Grani" Ebc="3.94" PotentialSG="1.039" />
+  <jmash.Malt Grammi="200.0" Nome="Cara-Pils/Dextrine" Forma="Grani" Ebc="3.94" PotentialSG="1.033" />
+  <jmash.MashStep type="Infusione" start="0" startTemp="15" endTemp="53" length="15" nome="Protein rest" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="20" startTemp="53" endTemp="63" length="60" nome="Beta rest" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="85" startTemp="63" endTemp="68" length="15" nome="Alpha rest" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="105" startTemp="68" endTemp="78" length="10" nome="Mash out" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+</recipe>
+

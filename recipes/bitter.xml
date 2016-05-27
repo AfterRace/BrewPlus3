@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe volume="24.0" volume_boll="28.0" unita_misura_mostrata="litri" efficienza="77" bollitura="75" nome="Light Bitter Ale" note="Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.Note notanti.">
+  <jmash.BrewStyle nome="Standard/Ordinary Bitter" categoria="ENGLISH PALE ALE" numero="8" sottoCategoria="A" ogMin="1.032" ogMax="1.04" fgMin="1.007" fgMax="1.011" ibuMin="25.0" ibuMax="35.0" colorMin="4.0" colorMax="14.0" abvMin="3.2" abvMax="3.8" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="20" AlfaAcidi="4.5" Nome="Fuggles" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="35.0" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="60" AlfaAcidi="5.0" Nome="Goldings, East Kent" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="35.0" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="30" AlfaAcidi="5.0" Nome="Goldings, East Kent" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="35.0" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="15" AlfaAcidi="5.0" Nome="Goldings, East Kent" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="35.0" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="5.0" Nome="Goldings, East Kent" Forma="Fiore" Origine="UK" Uso="Kettle" HSI="35.0" />
+  <jmash.Hop Grammi="20.0" UnitaMisura="grammi" BoilTime="0" AlfaAcidi="5.0" Nome="Goldings, East Kent" Forma="Fiore" Origine="UK" Uso="Dry" HSI="35.0" />
+  <jmash.Malt Grammi="3500.0" UnitaMisura="grammi" Nome="Pale Malt (2 Row) UK" Forma="Grani" Ebc="5.91" PotentialSG="1.036" />
+  <jmash.Malt Grammi="250.0" UnitaMisura="grammi" Nome="Caramel/Crystal Malt - 80L" Forma="Grani" Ebc="200.0" PotentialSG="1.034" />
+  <jmash.Malt Grammi="250.0" UnitaMisura="grammi" Nome="Wheat, Flaked" Forma="Grani" Ebc="3.152" PotentialSG="1.035" />
+  <jmash.Malt Grammi="250.0" UnitaMisura="grammi" Nome="Vienna Malt" Forma="Grani" Ebc="6.895" PotentialSG="1.036" />
+  <jmash.Yeast nome="SafAle English Ale" codice="S-04" produttore="DCL yeast" descrizione="English Ales, Cask Conditioned Ales" note="2 pkg" />
+  <jmash.MashStep type="Infusione" start="0" startTemp="20" endTemp="66" length="60" nome="Single rest" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.WaterProfile nome="guizza" type="0" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" />
+  <jmash.WaterProfile nome="bitter" type="1" calcio="200.0" magnesio="10.0" solfato="400.0" cloruro="30.0" sodio="10.0" carbonato="0.0" />
+  <jmash.WaterProfile type="2" calcio="9.0" magnesio="4.0" solfato="3.0" cloruro="1.0" sodio="2.0" carbonato="44.0" gypsum="2697.0" sale="0.0" epsom="0.0" calciumChloride="252.0" chalk="0.0" soda="0.0" />
+</recipe>
+

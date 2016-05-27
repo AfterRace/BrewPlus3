@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mash>
+  <jmash.MashStep type="Infusione" start="0" startTemp="15" endTemp="66" length="28" nome="Generato da aggiunte" ramp="2" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Infusione" start="30" startTemp="66" endTemp="78" length="30" nome="Generato da aggiunte" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" />
+  <jmash.MashStep type="Aggiunta" start="30" startTemp="66" endTemp="78" length="15" nome="" ramp="5" decoctionRamp1="0" decoctionRamp2="0" decoctionRestL1="0" decoctionRestL2="0" decoctionRestT1="0" decoctionRestT2="0" decoctionRampDown="0" infusionTemp="100" />
+</mash>
+
